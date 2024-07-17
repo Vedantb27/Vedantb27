@@ -1,9 +1,7 @@
 
 # Hi there, I'm Vedant Bopanwar! 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="50">
-</p>
+
 
 <p align="center">
   Welcome to my GitHub profile! I'm a passionate Full stack Developer with a knack for building interactive and dynamic web applications. I love coding and constantly learning new technologies to improve my skills.
