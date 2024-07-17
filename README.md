@@ -1,5 +1,5 @@
 
-# Hi there, I'm Vedant Gandu! 👋
+# Hi there, I'm Vedant Bopanwar! 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="50">
