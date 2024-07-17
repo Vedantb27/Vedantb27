@@ -1,12 +1,12 @@
 
-# Hi there, I'm Vedant Loudu! 👋
+# Hi there, I'm Vedant Gandu! 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="50">
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a passionate Front-End Developer with a knack for building interactive and dynamic web applications. I love coding and constantly learning new technologies to improve my skills.
+  Welcome to my GitHub profile! I'm a passionate Full stack Developer with a knack for building interactive and dynamic web applications. I love coding and constantly learning new technologies to improve my skills.
 </p>
 
 
@@ -14,21 +14,21 @@
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="50">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay250501&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay250501" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedantb27&label=Profile%20views&color=0e75b6&style=flat" alt="Vedantb27" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **[Currently Working on this Project](https://github.com/tanmay250501/Food-bloog-website)**
+- 🔭 I’m currently working on **[Currently Working on this Project](https://github.com/Vedantb27)**
 
 - 🌱 I’m currently learning **React Js , Node Js and Express Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tanmay250501](https://github.com/tanmay250501)
+- 👨‍💻 All of my projects are available at [https://github.com/tanmay250501](https://github.com/Vedantb27)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Java**
 
 - 📫 How to reach me **tanmaysawwalakhe2@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ehqKziSn6ahChwT5blSJR8SyYENSzLcf/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/)
 
 
 
@@ -56,7 +56,7 @@
 ## 🚀 About Me
 
 - 🌍 Maharashtra, India
-- 💻 Front-end Developer
+- 💻 Full Stack Developer
 - 🎓 Always learning and growing
 
 ## 🛠️ Skills
@@ -78,9 +78,8 @@ Here are some of my pinned projects:
 
 ## 📫 How to reach me
 
-- **LinkedIn**: [Tanmay Sawwalakhe](https://www.linkedin.com/in/tanmay-sawwalakhe)
-- **Twitter**: [@TaninsaneG](https://twitter.com/TaninsaneG)
-- **Email**: tanmaysawwalakhe2@gmail.com
+- **LinkedIn**: [Vedant Bopanwar](https://www.linkedin.com/in/tanmay-sawwalakhe)
+- **Email**: bopanwarvedant27@gmail.com
 
 ![Coding](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
@@ -99,10 +98,10 @@ Feel free to check out my repositories and get in touch if you want to collabora
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay250501&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tanmay250501" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vedantb27&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Vedantb27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay250501&show_icons=true&locale=en&theme=tokyonight" alt="tanmay250501" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vedantb27&show_icons=true&locale=en&theme=tokyonight" alt="Vedantb27" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay250501&theme=tokyonight" alt="tanmay250501" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedantb27&theme=tokyonight" alt="Vedantb27" /></p>
 
