@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **React Js , Node Js and Express Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tanmay250501](https://github.com/Vedantb27)
+- 👨‍💻 All of my projects are available at [[https://github.com/tanmay250501](https://github.com/Vedantb27)](https://github.com/Vedantb27)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Java**
 
